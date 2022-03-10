@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "star": "webpack serve --config webpack.config.js --open --port=8080"
+    "start": "webpack serve --config webpack.config.js --open --port=8080"
   },
   "author": "Brahian",
   "license": "ISC",
